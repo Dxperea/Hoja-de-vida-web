@@ -2,10 +2,11 @@ html,body{
     height: 300px;    
     }
 html,body{
-    background-image:url(office-gc12189592_1920.jpg);
+    background-image:url(hacker-g17cc6a9f5_1920.jpg);
     background-size: cover;
+       
+  
 }
 #contenido{width: 700px;margin: 0 auto;}
-#src{
-    width: 900px;margin: auto;
-}
+
+
