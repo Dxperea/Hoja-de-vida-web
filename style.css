@@ -1,6 +1,11 @@
-html,body{height:100%;color: black;}
-html,body{height:800px;background-image: url(fondo-de-líneas-movimiento-color-claro-resumen-curvadas-y-formas-onda-sobre-gradiente-horizontal-borroso-tonos-matices-la-línea-173525556.jpg);
-background-repeat: repeat;
-background-size: 40rem ;
+html,body{
+    height: 300px;    
+    }
+html,body{
+    background-image:url(office-gc12189592_1920.jpg);
+    background-size: cover;
 }
 #contenido{width: 700px;margin: 0 auto;}
+#src{
+    width: 900px;margin: auto;
+}
